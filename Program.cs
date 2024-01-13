@@ -14,7 +14,7 @@ namespace TrataArquivoNetFrameWorl
 
 		private static void LeituraArquivo()
 		{
-			Console.WriteLine($"Inicio LeituraArquivo -> {DateTime.Now.ToString("MM'/'dd'/'yyyy HH':'mm':'ss.fff")}");
+			Console.WriteLine($"Início LeituraArquivo -> {DateTime.Now.ToString("MM'/'dd'/'yyyy HH':'mm':'ss.fff")}");
 			//Console.WriteLine("LeituraArquivo");
 			//RegrasNegocio();
 			Thread.Sleep(1001);
